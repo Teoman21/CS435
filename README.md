@@ -1,1 +1,1 @@
-# CS435
+Data mining class coursework
